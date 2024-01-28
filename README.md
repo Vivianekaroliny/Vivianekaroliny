@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Sciense
 - 🌱 I’m currently learning python, SQL, English.
 - 💞️ I try to collaborate by writing down everything I'm learning here.
-- 📫 How to reach me 
+- 📫 How to reach me
+- Student POD ACADEMY @academy.pod
 Email: vivianekaroliny@gmail.com
 insta: @vivianekaroliny
 
